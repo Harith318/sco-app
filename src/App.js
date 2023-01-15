@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there <code>Start SCO project</code> and save to reload.
+          Hi there <code>Start SCO project</code> and save to be or not to be
         </p>
         <a
           className="App-link"
